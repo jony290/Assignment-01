@@ -1,3 +1,67 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
+    padding: 0%;
+
+}
+
+h1 {
+    font-size: 60px;
+
+}
+
+
+
+.flood-text {
+
+    text-align: center;
+    position: relative;
+    padding: 10%;
+    color: black;
+}
+
+.button-text {
+    background-color: #f44336;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+
+.flood-image {
+    background-image: url(images/donation2.jpg);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50%;
+
+}
+
+.button {
+    padding: 10px 40px;
+    border: none;
+
+    font-size: 20px;
+
+}
+
+.donet {
+    text-align: center;
+
+    padding: 10%;
+    color: black;
+
+}
+
+.button1 {
+    border-color: #f44336;
+    background-color:
+        padding: 20px;
+    font-size: xx-large;
+    color: #f44336;
+
+
 }
