@@ -65,3 +65,53 @@ h1 {
 
 
 }
+
+.donet-plan {
+    text-align: center;
+    color: black;
+}
+
+.icons-expression {
+    display: flex;
+    padding: 50px;
+    width: 100%;
+    margin: 5%;
+
+
+}
+
+.food {
+    background-color: lightgray;
+    padding: 5%;
+
+    margin-right: 10px;
+
+}
+
+.shelter {
+    background-color: pink;
+
+    margin-right: 10px;
+    padding: 5%;
+
+
+}
+
+.frame {
+    background-color: palegoldenrod;
+
+    padding: 5%;
+}
+
+.donet-people {
+    display: flex;
+    padding: 5px
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    width: 80%;
+}
